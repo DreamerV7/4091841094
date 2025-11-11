@@ -1,0 +1,12 @@
+<!-- values/strings.xml -->
+<resources>
+    <string name="app_name">Unscramble</string>
+    <string name="word_count">Word: %d/%d</string>
+    <string name="score">Score: %d</string>
+    <string name="submit">Submit</string>
+    <string name="skip">Skip</string>
+    <string name="instructions">Using all the letters, guess the word!</string>
+    <string name="enter_your_word">Enter your word</string>
+    <string name="wrong_guess">Wrong Guess!</string>
+    <string name="final_score">Your score is: %d</string>
+</resources>
